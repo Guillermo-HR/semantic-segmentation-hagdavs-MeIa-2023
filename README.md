@@ -10,4 +10,3 @@ Los datos fueron obtenidos de: https://www.kaggle.com/datasets/mateocanosolis/ha
 2. Thomas Pineda Tamayo - UNAL
 3. Quistian Silva Pedro Angel - INAOEP
 4. Alvarado Lucas Elliot - UNAM
-5.
